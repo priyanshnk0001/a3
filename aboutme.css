@@ -25,6 +25,56 @@ text-decoration: none;
 
 
 
+@media (max-width: 500px) {
+
+
+    .option{
+        width: 300px;
+        position: fixed;
+        right: 20px;
+        top: 50px;
+        margin-left: auto;
+        margin-right: auto;
+       
+    }
+
+
+    .aboutme-option{
+        font-size: 10px;
+        text-decoration: none;
+    display: inline;
+    margin-right: 10px;
+    padding: 10px;
+
+    }
+
+    p{
+        font-size: 25px;
+    }
+
+    h1{
+        font-size: 15px;
+    }
+
+    .dptextline{
+        line-height: 30px;
+    }
+
+    .imagetext{
+        line-height: 30px;
+    }
+
+    .electriphi-pera{
+        font-size: 15px;
+    }
+
+
+
+}
+
+
+
+
 
 
 .grandparent{
